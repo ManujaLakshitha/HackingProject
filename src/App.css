@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "Great";
+  src: url("public/Mulish-Light.ttf");
+}
+
+@font-face {
+  font-family: "Lato";
+  src: url("public/Lato-Black.ttf");
+}
+
+.great {
+  font-family: Great;
+}
+
+.lato {
+  font-family: Lato;
+}
+
+.video{
+  display:flex;
+  justify-content:center;
+  align-item:center;
+}
+
+.card{
+  display:flex;
+  justify-content:center;
+  align-item:center;
+}
